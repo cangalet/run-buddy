@@ -144,7 +144,10 @@ section {
     border-color: #39a6b2;
 }
 
-/* What We Do Section */
+/* Section Titles End */
+
+
+/* What We Do Style */
 
 .intro {
     text-align: center;
@@ -158,9 +161,9 @@ section {
     margin: 0 auto;
 }
 
-/* End What We Do Section */
+/* What We Do Style Ends */
 
-/* What You Do Section */
+/* What You Do Style */
 
 .steps {
     text-align: center;
@@ -191,9 +194,9 @@ section {
     font-size: 38px;
 }
 
-/* End What You Do Section */
+/* What You Do Style Ends*/
 
-/* Meet Your Trainers Section */
+/* Meet Your Trainers Style */
 
 .trainers {
     text-align: center;
@@ -242,7 +245,10 @@ section {
     text-align: right;
 }
 
-/* Reach Out Section */
+/* Meet Your Trainers Style Ends*/
+
+
+/* Reach Out Style */
 
 .contact {
     text-align: center;
@@ -266,3 +272,21 @@ section {
     margin: 30px 0 0 60px;
     color: white;
 }
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
+/* Reach Out Style Ends */
